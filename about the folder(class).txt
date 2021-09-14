@@ -1,0 +1,3 @@
+According to section from module 4, section 4.3.1, 
+the folder (class) is created to have our cloned repository situated.-
+-------------------X--------------------X----------X--------------------
