@@ -22,6 +22,10 @@ The purpose is to see the effects on the overall-already-calculated-data after r
   <img src="Challenge-folder2-2-2022\district_summary_df_comparisons.png" width="450" height="250">
   <figcaption>Picture 1: comparisons of the dfs: District_summary_df.</figcaption>
 </figure>
+
+
+
+
 ---> The effect on the Dataframe -- school summary: In the row of Thomas high school, there is insignificant increase/decrease in percentages in the following:
 
 1. Average Math Score by 0.07% ↓
