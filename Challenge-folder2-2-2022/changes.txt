@@ -1,0 +1,21 @@
+district summary df has changes in average math %passing math reading and passing overall scores of 1% difference.
+
+
+per_school_summary_df has changes in average math and aver reading scores, passing math%, passing reading % and passing overall%. with the 
+ranges of difference is between 0.05 to 0.31.
+
+but thomas high school still comes in top5 even after deleting 9th graders suspicious scores. 
+
+the data frame for "math_scores_by_grade" shows no scores for ninth graders in the challenge file, but it is there before deleting the scores in Pycityschools.ipynb file. 
+
+same goes for reading and overall df..
+
+
+
+spending df does hve the affect in the index of $630-644 's row , every column has some poimts drop except the "ave reading score" of o,1 % increase.
+
+school-sizing does not have any affect and same goes for "type_summary_df". 
+
+
+
+ 
